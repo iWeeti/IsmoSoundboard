@@ -1,4 +1,4 @@
-package com.example.ismosoundboard;
+package xyz.weetisoft.ismosoundboard;
 
 import android.content.Context;
 

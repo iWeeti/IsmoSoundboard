@@ -1,4 +1,4 @@
-package com.example.ismosoundboard;
+package xyz.weetisoft.ismosoundboard;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -18,15 +18,15 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.DialogFragment;
 
+import com.example.ismosoundboard.R;
+
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.HashSet;
 import java.util.Set;
-import java.util.function.Consumer;
 
 public class SoundDialog extends DialogFragment {
 

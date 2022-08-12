@@ -1,4 +1,4 @@
-package com.example.ismosoundboard;
+package xyz.weetisoft.ismosoundboard;
 
 public class DataModel {
 

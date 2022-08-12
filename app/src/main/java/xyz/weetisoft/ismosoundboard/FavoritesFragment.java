@@ -1,4 +1,4 @@
-package com.example.ismosoundboard;
+package xyz.weetisoft.ismosoundboard;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -8,18 +8,16 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import java.lang.reflect.Array;
+import com.example.ismosoundboard.R;
+
 import java.lang.reflect.Field;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
-import java.util.prefs.Preferences;
 
 public class FavoritesFragment extends Fragment implements SharedPreferences.OnSharedPreferenceChangeListener {
     ArrayList<Sound> sounds;

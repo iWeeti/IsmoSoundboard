@@ -1,9 +1,10 @@
-package com.example.ismosoundboard;
+package xyz.weetisoft.ismosoundboard;
 
 import android.content.Context;
 import android.content.res.Resources;
 import android.media.MediaPlayer;
-import android.util.Log;
+
+import com.example.ismosoundboard.R;
 
 public class Sound {
     public String filename;
