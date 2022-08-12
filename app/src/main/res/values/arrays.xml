@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="navigation_drawer_items_array" translatable="true">
+        <item>Ismo Soundboard</item>
+        <item>🤍</item>
+    </string-array>
+</resources>

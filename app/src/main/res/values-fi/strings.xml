@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ismo Soundboard</string>
+    <string name="ah">Ah</string>
+    <string name="ai">Ai</string>
+    <string name="wip">Tulossa pian.</string>
+    <string name="set_ringtone">Soittoääni asetettu.</string>
+    <string name="set_ringtone_failed">Soittoääntä ei voitu asettaa. Annathan sovellukselle oikeudet.</string>
+    <string name="set_alarm">Hälytysääni asetettu!</string>
+    <string name="set_notification">Ilmoitusääni asetettu!</string>
+    <string name="home">Koti</string>
+    <string name="favorites">Suosikit</string>
+    <string name="set_as_ringtone">Aseta Soittoääneksi</string>
+    <string name="set_as_alarm">Aseta Hälytysääneksi</string>
+    <string name="set_as_notification">Aseta Ilmoitusääneksi</string>
+    <string name="add_to_favorites">Lisää Suosikkeihin</string>
+    <string name="added_to_favorites">Lisätty Suosikkeihin!</string>
+    <string name="removed_from_favorites">Poistettu Suosikeista!</string>
+    <string name="remove_from_favorites">Poista Suosikeista</string>
+</resources>
